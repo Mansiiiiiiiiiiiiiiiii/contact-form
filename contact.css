@@ -1,0 +1,21 @@
+.contact{
+    background-color: lightgray;
+}
+input[type="email"],select,textarea{
+    width: 30%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 5px;
+}
+.contact{
+    padding: 5px 20px 15px 20px ;
+    background-color: #f2f2f2;
+    border: 12px solid black ;
+    border-radius: 10px;
+    background-image: url("contact.png");
+    background-position: center;
+}
+button{
+    padding: 20px;
+}
