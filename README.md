@@ -31,4 +31,4 @@ This Contact Us form is a simple yet effective way for users to communicate with
 
 ---
 
-Enjoy using our Contact Us form! For any inquiries or issues, please contact [Your Email Address].
+Enjoy using our Contact Us form! For any inquiries or issues, please contact mansi15094@gmail.com.
